@@ -35,9 +35,7 @@ Requirements
 Python 3.7+
 Streamlit (pip install streamlit)
 
-
-image.png
-
+![Screenshot of Unit Converter](Unit-Converter.jpg)
 
 Contributing
 Feel free to fork this repository, submit issues, or create pull requests to add more features or units!
